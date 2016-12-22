@@ -11,7 +11,7 @@
 	.info_timeline dl dd { width: calc(100% - 200px); width: -moz-calc(100% - 200px); width: -webkit-calc(100% - 200px); }
 	.footer a { float: right; }
 	.tip_avatar_con { background: url('../images/cartoon.png') no-repeat 20% center; }
-	.tip_right { width: 45%; height: 460px; position: absolute; right: 0; top: 50%; margin: -230px 0 0; }
+	.tip_right { width: 75%; height: 460px; position: absolute; right: 0; top: 50%; margin: -230px 0 0; }
 	.info_content.over .desc { height: 0; margin: 0; }
 	.info_content.over .s5.curr { height: 474px }
 	.info_content.over .s4.curr { padding-top: 100px; height: 374px }
@@ -47,7 +47,7 @@
 	.info_timeline dl dd { width: calc(100% - 170px); width: -moz-calc(100% - 170px); width: -webkit-calc(100% - 170px); }
 	.footer a { float: none; }
 	.tip_avatar_con { background-position: center center; }
-	.tip_right { width: 80%; padding: 10% 10% 30%; height: auto; position: relative; top: 0; margin: 0; background-color: rgba(215,62,42,0.95); }
+	.tip_right { width: 80%; padding: 10% 10% 30%; height: auto; position: relative; top: 0; margin: 0; background-color: rgba(171,215,41,0.9); }
 	.info_content.over .desc { height: auto; margin-bottom: 20px; }
 	.info_content.over .s5.curr, .info_content.over .s4.curr, .info_content.over .s3.curr, .info_content.over .s2.curr, .info_content.over .s1.curr { padding-top: 0; height: auto; }
 	.info_content ul li .btn_go { display: block; position: relative; right: 0; top: 0; width: 80%; margin: -12px 0 30px 26px; }
