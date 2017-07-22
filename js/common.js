@@ -1,4 +1,3 @@
-/*执行事件*/
 $(function() {
 
     //打印
@@ -135,9 +134,17 @@ $(function() {
         open_layout();
     });
 
-    $('.btn_more').click(function(){
+    
+    $('.product_6').click(function(){
         del_slide();
         $('.carousel').carousel(5);
+        add_slide();
+        open_layout();
+    });
+
+    $('.btn_more').click(function(){
+        del_slide();
+        $('.carousel').carousel(6);
         add_slide();
         open_layout();
     });
@@ -224,6 +231,7 @@ if (annyang) {
     '(number) 3': function(){ $('.product_3').click(); },
     '(number) 4': function(){ $('.product_4').click(); },
     '(number) 5': function(){ $('.product_5').click(); },
+    '(number) 6': function(){ $('.product_6').click(); },
     '(number) more': function(){ $('.btn_more').click(); },
 
     'goodbye': function(){ byebye(); }
