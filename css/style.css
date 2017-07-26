@@ -193,7 +193,7 @@ i { font-size: 16px; }
 .banner.product_h5 { background: url(../images/product_5_bg.jpg) no-repeat fixed 50% 0; background-size: cover; }
 .banner.product_h5 .logo { background: url(../images/product_5_logo.png) no-repeat center center; width: 220px; margin-left: -110px; }
 .banner.product_h6 { background: url(../images/product_6_bg.jpg) no-repeat fixed 50% 0; background-size: cover; }
-.banner.product_h6 .logo { background: url(../images/product_6_logo.png) no-repeat center center; width: 150%; }
+.banner.product_h6 .logo { background: url(../images/product_6_logo.png) no-repeat center center; width: 80%; }
 .banner.product_h7 { background: url(../images/product_7_bg.jpg) no-repeat fixed 50% 0; background-size: cover; }
 .banner.product_h7 .logo { color: #fff; text-align: center; line-height: 200px; font-size: 22px; }
 
